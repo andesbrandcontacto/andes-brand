@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andesbrandcontacto.github.io/andes-brand/sitemap.xml
